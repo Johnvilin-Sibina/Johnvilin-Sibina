@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN** stack (Mo
  - **[Role-Based Access Control Corporate Intranet Portal](https://beamish-buttercream-3f70ca.netlify.app/)**: A comprehensive solution for managing user roles and permissions within an organization.
  - ## 📫 Get in Touch
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/johnvilin-sibina-j-5ba45425a/))
+- [LinkedIn](https://www.linkedin.com/in/johnvilin-sibina-j-5ba45425a/)
 - [GitHub](https://github.com/Johnvilin-Sibina)
 <!--
 **Johnvilin-Sibina/Johnvilin-Sibina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
