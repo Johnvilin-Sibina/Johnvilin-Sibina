@@ -5,7 +5,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN** stack (Mo
 - **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap, Redux
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
-- **Tools**: Git, Postman
+- **Tools**: Github, Postman
 - ## 💼 Projects
  - **[Role-Based Access Control Corporate Intranet Portal](https://beamish-buttercream-3f70ca.netlify.app/)**: A comprehensive solution for managing user roles and permissions within an organization.
  - ## 📫 Get in Touch
